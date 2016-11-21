@@ -1,18 +1,14 @@
 {
-    "name": "UserApi",
-    "version": "1.0.0",
-    "description": "REST API - Users - Heroku",
-    "dependencies": {
-        "restify": "latest",
-        "save": "latest"
-    },
-	  "dependencies": {
-    "pg": "4.x",
+  "name": "UserApi",
+  "version": "1.0.0",
+  "description": "REST API - Users - Heroku",
+  "dependencies": {
+    "cool-ascii-faces": "1.3.3",
     "ejs": "2.3.3",
     "express": "4.13.3",
-    "cool-ascii-faces": "1.3.3"
-},
-    "author": "jaismeen",
-	"private": true,
-	"main": "index.js"
+    "pg": "4.x"
+  },
+  "author": "jaismeen",
+  "private": true,
+  "main": "index.js"
 }
